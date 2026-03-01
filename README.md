@@ -44,7 +44,6 @@ This system evaluates how well a resume matches a job description and provides *
 
 ## 📸 Screenshots
 
-> Add screenshots inside a folder named `screenshots` in your project
 
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
